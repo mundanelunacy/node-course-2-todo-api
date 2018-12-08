@@ -44,7 +44,6 @@ app.get('/todos/:id', function(req, res){
       if(todo){
         res.send({todo}); 
       }else{
-        console.log(`${id} not found`); 
         res.status(404).send();
       }
     }).catch(function(e){
@@ -53,7 +52,6 @@ app.get('/todos/:id', function(req, res){
     });    
   }  
   else{
-    console.log(`${id} is not valid`); 
     res.status(404).send();
   }
 });
