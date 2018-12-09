@@ -12,9 +12,9 @@ var password = '123abc!';
 // });
 
 
-var hashedPassword = "$2a$10$uCpz.Uelpnk7t807gSyK/emercbmWVpCiJd.RfUZm.OiPncYE7Jaa";
+var hashedPassword = "$2a$10$2J5lFPd8TPKZAzG1/oW59eCOCBBg7uCZ.Vfw6KQzl4qxsZNSd7uAG";
 
-bcrypt.compare('password', hashedPassword, function(err, res){
+bcrypt.compare('aaabbbc', hashedPassword, function(err, res){
 	console.log(res);
 });
 
