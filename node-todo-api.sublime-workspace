@@ -1,0 +1,1509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tobe",
+				"toBeDefined"
+			],
+			[
+				"to",
+				"toHexString"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"userT",
+				"userTwoId"
+			],
+			[
+				"userOne",
+				"userOneId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"tob",
+				"toBeDefined"
+			],
+			[
+				"ha",
+				"hashedPass"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"pop",
+				"populateUsers"
+			],
+			[
+				"use",
+				"userObject"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"comp",
+				"completedAt"
+			],
+			[
+				"toBe",
+				"toBeA"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"co",
+				"completed"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"toE",
+				"toHexString"
+			],
+			[
+				"fi",
+				"findById"
+			],
+			[
+				"get",
+				"getMobileOperatingSystem"
+			],
+			[
+				"reward",
+				"rewardedSlot"
+			],
+			[
+				"rewar",
+				"rewardedSlot"
+			],
+			[
+				"rew",
+				"rewardedSlot"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pla",
+				"places_params"
+			],
+			[
+				"val",
+				"validate_inputs"
+			],
+			[
+				"pars",
+				"parse_output"
+			],
+			[
+				"Calcu",
+				"CalculatorAPI"
+			],
+			[
+				"C",
+				"hw_Children"
+			],
+			[
+				"json",
+				"json_out"
+			],
+			[
+				"cal",
+				"calc"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"vast",
+				"vastTag"
+			],
+			[
+				"conten",
+				"contentEndedListener"
+			],
+			[
+				"cont",
+				"contentComplete"
+			],
+			[
+				"adsMan",
+				"adsManagerLoadedEvent"
+			],
+			[
+				"play",
+				"playButton"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"ins",
+				"insId"
+			],
+			[
+				"html",
+				"htmlToElement"
+			],
+			[
+				"htm",
+				"htmlToElement"
+			],
+			[
+				"retur",
+				"returnIframe"
+			],
+			[
+				"retu",
+				"returnIframe"
+			],
+			[
+				"resiz",
+				"resizeWidth"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ad",
+				"ad_module"
+			],
+			[
+				"star",
+				"start_pos"
+			],
+			[
+				"cur",
+				"cur_pos"
+			],
+			[
+				"div",
+				"div-banner"
+			],
+			[
+				"def",
+				"defineSecondLookOOP"
+			],
+			[
+				"div-",
+				"div-banner"
+			],
+			[
+				"insert",
+				"insertAfter"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"inse",
+				"insertAfter"
+			],
+			[
+				"box",
+				"box1"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"fge",
+				"fgets"
+			],
+			[
+				"blue",
+				"blue-div"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"samp",
+				"sample-div"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"xml",
+				"xml_console"
+			],
+			[
+				"xm",
+				"xmlText"
+			],
+			[
+				"temp",
+				"temp_tag"
+			],
+			[
+				"GIVE",
+				"GIVE_RESPONSE__KARMA_GIVE_MAX_EXCEEDED"
+			],
+			[
+				"KARMA",
+				"KARMA_GIVE_MAX"
+			],
+			[
+				"karma",
+				"karma_sum"
+			],
+			[
+				"kara",
+				"karma_sum"
+			],
+			[
+				"text",
+				"textMessage"
+			],
+			[
+				"re",
+				"receiverId"
+			],
+			[
+				"recei",
+				"receiverName"
+			],
+			[
+				"getU",
+				"getUserId"
+			],
+			[
+				"receiv",
+				"receiverId"
+			],
+			[
+				"GIVE_RES",
+				"GIVE_RESPONSE__USER_NOT_RECOGNIZED"
+			],
+			[
+				"GIVE_RE",
+				"GIVE_RESPONSE__USER_NOT_RECOGNIZED"
+			],
+			[
+				"rec",
+				"receiverName"
+			],
+			[
+				"rece",
+				"receiverName"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"giv",
+				"giveResult"
+			],
+			[
+				"give",
+				"giveResult"
+			],
+			[
+				"join",
+				"joinEvent"
+			],
+			[
+				"chat",
+				"chatroomsId"
+			],
+			[
+				"cha",
+				"chatroomsId"
+			],
+			[
+				"plat",
+				"platform"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"up",
+				"updateUser"
+			],
+			[
+				"en",
+				"entity_name"
+			],
+			[
+				"enti",
+				"entityName"
+			],
+			[
+				"foll",
+				"followEvent"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ent",
+				"entries_arr"
+			],
+			[
+				"se",
+				"session_id"
+			],
+			[
+				"sy",
+				"synonym_arr"
+			],
+			[
+				"rende",
+				"render_args"
+			],
+			[
+				"http_buil",
+				"http_build_query"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"imagefill",
+				"imagefilledrectangle"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"banner_fi",
+				"banner_file_size"
+			],
+			[
+				"bann",
+				"banner_file_size"
+			],
+			[
+				"imagecopyres",
+				"imagecopyresized"
+			],
+			[
+				"fo",
+				"font_file"
+			],
+			[
+				"icon",
+				"icon_file_size"
+			],
+			[
+				"ic",
+				"icon_file_size"
+			],
+			[
+				"test",
+				"test_response"
+			],
+			[
+				"repl",
+				"replyToken"
+			],
+			[
+				"kp",
+				"kpdb"
+			],
+			[
+				"getUse",
+				"getUserId"
+			],
+			[
+				"username",
+				"usernameList"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"giver",
+				"giverId"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"users",
+				"users_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "require('./config/config');\n\nconst _ = require('lodash');\nconst express = require('express');\nconst bodyParser = require('body-parser');\nconst {ObjectID} = require('mongodb');\nconst bcrypt = require('bcryptjs');\n\nvar {mongoose} = require('./db/mongoose');\nvar {Todo} = require('./models/todo');\nvar {User} = require('./models/user');\nvar {authenticate} = require ('./middleware/authenticate');\n\nconst port = process.env.PORT;\n\nvar app = express();\n\napp.use(bodyParser.json());\n\napp.post('/todos', authenticate, function(req, res) {\n\tvar todo = new Todo({\n\t\ttext: req.body.text,\n\t\t_creator: req.user._id\n\t});\n\ttodo.save().then(function(doc) {\n\t\tres.send(doc);\n\t}, function(e) {\n\t\tres.status(400).send(e);\n\t});\n});\n\n\napp.get('/todos', authenticate, function(req, res) {\n\tTodo.find({_creator : req.user._id}).then(function(todos) {\n\t\tres.send({todos});\n\t}, function(e) {\n\t\tres.status(400).send(e);\n\t});\n});\n\n// GET /todos/123423\n\napp.get('/todos/:id', authenticate, function(req, res) {\n\tvar id = req.params.id;\n\n\t// validate id is isValid\n\tif (ObjectID.isValid(id)) {\n\t\tTodo.findOne({\n\t\t\t_id: id, \n\t\t\t_creator: req.user._id\n\t\t}).then(function(todo) {\n\t\t\tif (todo) {\n\t\t\t\tres.send({todo});\n\t\t\t} else {\n\t\t\t\tres.status(404).send();\n\t\t\t}\n\t\t}).catch(function(e) {\n\t\t\t// error\n\t\t\tres.status(400).send();\n\t\t});\n\t} else {\n\t\tres.status(404).send();\n\t}\n});\n\n\napp.delete('/todos/:id', authenticate, function(req, res) {\n\tvar id = req.params.id;\n\n\tif (!ObjectID.isValid(id)) {\n\t\treturn res.status(404).send();\n\t}\n\n\t// Todo.findByIdAndDelete(id)\n\tTodo.findOneAndRemove({\n\t\t_id : id,\n\t\t_creator : req.user._id\n\t})\n\t\t.then(function(todo) {\n\t\t\tif (!todo) {\n\t\t\t\treturn res.status(404).send();\n\t\t\t}\n\t\t\tres.send({todo});\n\t\t}).catch(function(e) {\n\t\t\tres.status(400).send();\n\t\t});\n});\n\napp.patch('/todos/:id', authenticate, function(req, res) {\n\tvar id = req.params.id;\n\tvar body = _.pick(req.body, ['text', 'completed']);\n\n\tif (!ObjectID.isValid(id)) {\n\t\treturn res.status(404).send();\n\t}\n\n\tif (_.isBoolean(body.completed) && body.completed) {\n\t\tbody.completedAt = new Date().getTime();\n\t} else {\n\t\tbody.completed = false;\n\t\tbody.completedAt = null;\n\t}\n\n\tTodo.findOneAndUpdate({_id: id, _creator : req.user._id}, {$set: body}, {new: true}).then(function(todo) {\n\t\tif (!todo) {\n\t\t\tres.status(404).send();\n\t\t}\n\n\t\tres.send({todo});\n\n\t}).catch(function(e) {\n\t\tres.status(400).send();\n\t});\n});\n\n// POST /users\napp.post('/users', function(req, res) {\n\n\tvar body = _.pick(req.body, ['email', 'password']);\n\tvar user = new User(body);\n\n\tuser.save().then(function() {\n\t\treturn user.generateAuthToken();\n\t}).then(function(token) {\n\t\tres.header('x-auth', token).send(user);\n\t}).catch(function(e) {\n\t\tres.status(400).send(e);\n\t});\n});\n\napp.get('/users/me', authenticate, function(req, res) {\n\tres.send(req.user);\n});\n\n// POST /users/login {email, password}\napp.post('/users/login', function(req, res){\n\tvar body = _.pick(req.body, ['email', 'password']);\n\n\tUser.findByCredentials(body.email, body.password).then(function(user){\n\t\treturn user.generateAuthToken().then(function(token){\n\t\t\tres.header('x-auth', token).send(user);\n\t\t});\n\t}).catch(function(e){\n\t\tres.status(400).send();\n\t});\n});\n\napp.delete('/users/me/token', authenticate, function(req, res){\n\treq.user.removeToken(req.token).then(function(){\n\t\tres.status(200).send();\n\t}, function(){\n\t\tres.status(400).send();\n\t});\n});\n\napp.listen(port, function() {\n\tconsole.log(`Started on port ${port}`);\n});\n\nmodule.exports = {\n\tapp\n};",
+			"file": "server/server.js",
+			"file_size": 3531,
+			"file_write_time": 131888991802635829,
+			"settings":
+			{
+				"buffer_size": 3451,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/models/user.js",
+			"settings":
+			{
+				"buffer_size": 2363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/middleware/authenticate.js",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/tests/server.test.js",
+			"settings":
+			{
+				"buffer_size": 8863,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/models/todo.js",
+			"settings":
+			{
+				"buffer_size": 361,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/tests/seed/seed.js",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mundanelunacy/Desktop/node-todo-api",
+		"/Users/mundanelunacy/Desktop/node-todo-api/playground",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/middleware"
+	],
+	"file_history":
+	[
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/tests/seed/seed.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/tests/server.test.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/models/user.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/playground/hashing.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/middleware/authenticate.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/playground/mongoose-queries.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/config/config.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/package.json",
+		"/Users/mundanelunacy/Desktop/node-todo-api/server/db/mongoose.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/playground/mongoose-remove.js",
+		"/Users/mundanelunacy/Desktop/node-todo-api/playground/mongoose-update.js",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/P-Review filled in",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/P-Review:  Satoshi Kawase",
+		"/Users/mundanelunacy/Desktop/node-todo-api/.git/COMMIT_EDITMSG",
+		"/Users/mundanelunacy/Desktop/node-web-server/.git/COMMIT_EDITMSG",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW Questions",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Jung Kihyun",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Koga Chihiro",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Tanaka Akihiro",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Nakata Yohei",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Kim Joy",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Kora Satomi",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Nakayama Tetsuo",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Chiang, Tzu-Chieh",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Pyun David",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/C-REVIEW - Chi Seonghyeon",
+		"/Users/mundanelunacy/Desktop/orientation.html",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Line Sublime/Notes from Anymind meeting in Thailand",
+		"/Users/mundanelunacy/Box/satoshi.kawase/Quick Games Ads SDK/GPT Rewarded Code/gpt_rewarded.html",
+		"/Users/mundanelunacy/Message to my Family",
+		"/Users/mundanelunacy/Documents/Analysis/Quick Games/GPT Rewarded/gpt_rewarded.html",
+		"/Users/mundanelunacy/Desktop/GPT Rewarded/untitled",
+		"/Users/mundanelunacy/Downloads/【COL】広告再生できない不具合_エラーログ.txt",
+		"/Users/mundanelunacy/Desktop/xc c.  v≥-344534787656789098765678÷/I had a dream about a hummingbird named Marr",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/native.html",
+		"/Users/mundanelunacy/Desktop/920_training/native.html",
+		"/Users/mundanelunacy/Desktop/萬華區中華路一段80號",
+		"/Users/mundanelunacy/Sites/dfp-bootcamp/calculator.php",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/calculator_jquery.html",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/calculator_caller.html",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/calculator_api.html",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/DFP Bootcamp day 1",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/calculator.php",
+		"/Users/mundanelunacy/Documents/dfp bootcamp/References",
+		"/Users/mundanelunacy/Desktop/dfp bootcamp/References",
+		"/Users/mundanelunacy/Desktop/dfp bootcamp/DFP Bootcamp day 1",
+		"/Users/mundanelunacy/Desktop/dfp bootcamp/calculator_api.html",
+		"/Users/mundanelunacy/Library/Application Support/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
+		"/Users/mundanelunacy/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/mundanelunacy/Sites/dfp-bootcamp/index.php",
+		"/Users/mundanelunacy/Desktop/dfp bootcamp/post_caller.html",
+		"/Users/mundanelunacy/Desktop/dfp bootcamp/food instructions",
+		"/Users/mundanelunacy/Desktop/ads.txt",
+		"/Users/mundanelunacy/Documents/HTML5 Quick Game Files/ima sdk wrapper v1/test.html",
+		"/Users/mundanelunacy/Desktop/github-recovery-codes.txt",
+		"/Users/mundanelunacy/Desktop/Amazon.com - Order 113-0448456-8369857.htm",
+		"/Users/mundanelunacy/Desktop/Stupid Bitch List",
+		"/Users/mundanelunacy/Desktop/ima sdk wrapper v1/test.html",
+		"/Users/mundanelunacy/Desktop/ima sdk wrapper v1/ad.js",
+		"/Users/mundanelunacy/Desktop/ad.js",
+		"/Users/mundanelunacy/Desktop/test.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/style.css",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/index.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/index.php",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/adclick.js",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/adclick.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/adclick.css",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/ads.js",
+		"/Users/mundanelunacy/Desktop/new_ads.txt",
+		"/Users/mundanelunacy/Desktop/old_ads.txt",
+		"/Users/mundanelunacy/Desktop/Test 1 - Request to LINE DFP Account.  IMA request",
+		"/Users/mundanelunacy/Desktop/Test 3 - Request to LINE DFP Account.  IMA request",
+		"/Users/mundanelunacy/Desktop/Test 2 - Request to Coolgame's DFP Account.  IMA r",
+		"/Users/mundanelunacy/Desktop/link.html",
+		"/Users/mundanelunacy/Desktop/LINE URL",
+		"/Users/mundanelunacy/Desktop/Working URL",
+		"/Users/mundanelunacy/Desktop/index.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/card_style.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/card_frame.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/card_style.css",
+		"/Users/mundanelunacy/Desktop/line notes/meeting with Shimizu-san",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/lad_test.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/child2.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/child.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/ladviadfp.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/parent.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/lad_iframe.html",
+		"/Users/mundanelunacy/Downloads/pass-iframe-to-parent/PassValueIFrame.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/click_test.html",
+		"/Users/mundanelunacy/Desktop/lad_test.html",
+		"/Users/mundanelunacy/Desktop/static_test.html",
+		"/Users/mundanelunacy/Desktop/line notes/Slack Two-Factor Authentication Backup Codes",
+		"/Users/mundanelunacy/Desktop/line notes/Satoshi Kawase - Job Description",
+		"/Users/mundanelunacy/Desktop/DFP宿題.html",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/demo.html",
+		"/Users/mundanelunacy/Library/Application Support/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
+		"/Users/mundanelunacy/Desktop/line notes/Game Ad Notes",
+		"/Users/mundanelunacy/Desktop/pseudocode.js",
+		"/Users/mundanelunacy/Desktop/line notes/TW Display Gap Filling Issues + General impression",
+		"/Users/mundanelunacy/Desktop/LINE_OOP_production.txt",
+		"/Users/mundanelunacy/Desktop/gdpr notes",
+		"/Users/mundanelunacy/Desktop/OneAd OOP April.txt",
+		"/Users/mundanelunacy/Downloads/ads.txt",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/gpt_helper.js",
+		"/Users/mundanelunacy/Documents/chat.talkhours.com/onead.html",
+		"/Users/mundanelunacy/Desktop/line notes/# Line Today Ads Spec",
+		"/Users/mundanelunacy/Desktop/ProgIO/PROGRAMMATIC I_O San Francisco - Presentation PDF page.htm",
+		"/Users/mundanelunacy/Desktop/line notes/Lunch with Phil Suh",
+		"/Users/mundanelunacy/Documents/Sample creatives/gln-expandable-pushdown/gln-expandable-pushdown/index.html",
+		"/Users/mundanelunacy/Desktop/line notes/NYC + SF Trip",
+		"/Users/mundanelunacy/Desktop/line notes/TW Interview feedback",
+		"/Users/mundanelunacy/Desktop/line notes/Questions on Expandable ad",
+		"/Users/mundanelunacy/Desktop/line notes/* Hyunbin are thinking Yahoo Taiwan",
+		"/Users/mundanelunacy/Desktop/Workbook1.csv",
+		"/Users/mundanelunacy/Desktop/line notes/Questions from Application Security to Google",
+		"/Users/mundanelunacy/Desktop/oath.html",
+		"/Users/mundanelunacy/Desktop/gpt_helper.js",
+		"/Users/mundanelunacy/Desktop/onead.html",
+		"/Users/mundanelunacy/Downloads/talkhours.com/3f8111149194c1a2.crt",
+		"/Users/mundanelunacy/Desktop/fullbidrequest.json",
+		"/Users/mundanelunacy/Desktop/line notes/FIVE notes",
+		"/Users/mundanelunacy/Sites/dfp/expandable.html",
+		"/Users/mundanelunacy/Desktop/<script type=\"text:rfp-infeed-template\" data-adspo.html",
+		"/Users/mundanelunacy/Desktop/line notes/Webview Project - feedback from infosec and legal",
+		"/Users/mundanelunacy/Desktop/buyer-declarable-creative-attributes.txt",
+		"/Users/mundanelunacy/Desktop/133375-bidrequest.json",
+		"/Users/mundanelunacy/Sites/dfp/inside.html",
+		"/Users/mundanelunacy/Sites/dfp/outside.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2130,
+								2130
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1030.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/models/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1216,
+								1216
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/middleware/authenticate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "server/tests/server.test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4935,
+								4935
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/models/todo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "server/tests/seed/seed.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								828
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "node-todo-api.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"server.te",
+				"server/tests/server.test.js"
+			],
+			[
+				"server",
+				"server/server.js"
+			],
+			[
+				"server.t",
+				"server/tests/server.test.js"
+			],
+			[
+				"serv",
+				"server/server.js"
+			],
+			[
+				"seed",
+				"server/tests/seed/seed.js"
+			],
+			[
+				"todo",
+				"server/models/todo.js"
+			],
+			[
+				"user",
+				"server/models/user.js"
+			],
+			[
+				"see",
+				"server/tests/seed/seed.js"
+			],
+			[
+				"ser",
+				"server/server.js"
+			],
+			[
+				"server.tes",
+				"server/tests/server.test.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"mongoose.j",
+				"server/db/mongoose.js"
+			],
+			[
+				"mongoo",
+				"playground/mongoose-queries.js"
+			],
+			[
+				"gp",
+				"gpt_rewarded.html"
+			],
+			[
+				"ref",
+				"References"
+			],
+			[
+				"dfp",
+				"DFP Bootcamp day 1"
+			],
+			[
+				"calcula",
+				"calculator_jquery.html"
+			],
+			[
+				"calc",
+				"calculator.php"
+			],
+			[
+				"calcu",
+				"calculator_api.html"
+			],
+			[
+				"df",
+				"DFP Bootcamp day 1"
+			],
+			[
+				"",
+				"calculator_jquery.html"
+			],
+			[
+				"cal",
+				"calculator.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"ads.js",
+				"ads.js"
+			],
+			[
+				"adclick.cs",
+				"adclick.css"
+			],
+			[
+				"adclick",
+				"adclick.html"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"ads.j",
+				"ads.js"
+			],
+			[
+				"lad",
+				"lad_test.html"
+			],
+			[
+				"child2",
+				"child2.html"
+			],
+			[
+				"chil",
+				"child.html"
+			],
+			[
+				"pare",
+				"parent.html"
+			],
+			[
+				"lad_p",
+				"lad_parent.html"
+			],
+			[
+				"one",
+				"onead.html"
+			],
+			[
+				"goog",
+				"googlemaps.php"
+			],
+			[
+				"ap",
+				"application.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"vido",
+				"advanced/video_player.js"
+			],
+			[
+				"route",
+				"src/LINE/LINEBot/KitchenSink/Route.php"
+			],
+			[
+				"api",
+				"src/TalkHours/ApiaiCall.php"
+			],
+			[
+				"foll",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/FollowEventHandler.php"
+			],
+			[
+				"join",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/JoinEventHandler.php"
+			],
+			[
+				"test",
+				"public/tester.php"
+			],
+			[
+				"kpd",
+				"src/TalkHours/Karmabot/KpDB.php"
+			],
+			[
+				"text",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/MessageHandler/TextMessageHandler.php"
+			],
+			[
+				"events",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Constant/EventSourceType.php"
+			],
+			[
+				"baseeve",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/BaseEvent.php"
+			],
+			[
+				"messagee",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/MessageEvent.php"
+			],
+			[
+				"textm",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/MessageEvent/TextMessage.php"
+			],
+			[
+				"kp",
+				"src/TalkHours/Karmabot/KpDB.php"
+			],
+			[
+				".ht",
+				"public/.htaccess"
+			],
+			[
+				"fllow",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/FollowEventHandler.php"
+			],
+			[
+				"curl",
+				"vendor/curl/curl/src/Curl/Curl.php"
+			],
+			[
+				"rout",
+				"src/LINE/LINEBot/KitchenSink/Route.php"
+			],
+			[
+				"tester",
+				"public/tester.php"
+			],
+			[
+				"unfol",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/UnfollowEventHandler.php"
+			],
+			[
+				"un",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/UnfollowEvent.php"
+			],
+			[
+				"unfl",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/UnfollowEventHandler.php"
+			],
+			[
+				"unf",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/UnfollowEvent.php"
+			],
+			[
+				"follow",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/FollowEventHandler.php"
+			],
+			[
+				"baseev",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/BaseEvent.php"
+			],
+			[
+				"message",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/MessageEvent.php"
+			],
+			[
+				"joineven",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/JoinEvent.php"
+			],
+			[
+				"eventha",
+				"src/LINE/LINEBot/KitchenSink/EventHandler.php"
+			],
+			[
+				"eventre",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/Parser/EventRequestParser.php"
+			],
+			[
+				"line",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot.php"
+			],
+			[
+				"messageha",
+				"src/LINE/LINEBot/KitchenSink/EventHandler/MessageHandler/TextMessageHandler.php"
+			],
+			[
+				"rend",
+				"public/native/render.php"
+			],
+			[
+				"index",
+				"public/native/index.php"
+			],
+			[
+				"apiai",
+				"src/TalkHours/ApiaiCall.php"
+			],
+			[
+				"sett",
+				"src/LINE/LINEBot/KitchenSink/Setting.php"
+			],
+			[
+				"apiap",
+				"src/TalkHours/ApiaiCall.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"data",
+				"src/TALKHOURS/KarmaBot/Database.php"
+			],
+			[
+				"curltest",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/vendor/curl/curl/tests/CurlTest.php"
+			],
+			[
+				"textme",
+				"vendor/linecorp/line-bot-sdk/src/LINEBot/Event/MessageEvent/TextMessage.php"
+			],
+			[
+				"curlte",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/public/curltest.php"
+			],
+			[
+				"composer.json",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/composer.json"
+			],
+			[
+				"composer",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/composer.json"
+			],
+			[
+				"streamin",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/vendor/psr/http-message/src/StreamInterface.php"
+			],
+			[
+				"stream",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/vendor/slim/slim/Slim/Http/Stream.php"
+			],
+			[
+				".hta",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/public/.htaccess"
+			],
+			[
+				"imageme",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/src/LINEBot/KitchenSink/EventHandler/MessageHandler/ImageMessageHandler.php"
+			],
+			[
+				"depen",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/src/LINEBot/KitchenSink/Dependency.php"
+			],
+			[
+				"textmessa",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/src/LINEBot/KitchenSink/EventHandler/MessageHandler/TextMessageHandler.php"
+			],
+			[
+				"rou",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/src/LINEBot/KitchenSink/Route.php"
+			],
+			[
+				"setting",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/src/LINEBot/KitchenSink/Setting.php"
+			],
+			[
+				"run.sh",
+				"vendor/linecorp/line-bot-sdk/examples/KitchenSink/run.sh"
+			],
+			[
+				"phpino",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/public/phpinfo.php"
+			],
+			[
+				"settin",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/src/LINEBot/EchoBot/Setting.php"
+			],
+			[
+				"depe",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/src/LINEBot/EchoBot/Dependency.php"
+			],
+			[
+				"public/in",
+				"vendor/linecorp/line-bot-sdk/examples/EchoBot/public/index.php"
+			],
+			[
+				"lin",
+				"LINEBotTiny.php"
+			],
+			[
+				"echo",
+				"echo_bot.php"
+			],
+			[
+				"git",
+				"git-webhook.php"
+			],
+			[
+				"linebott",
+				"line-bot-sdk-tiny/LINEBotTiny.php"
+			],
+			[
+				"tit",
+				"titles.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
