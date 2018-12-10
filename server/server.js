@@ -29,7 +29,6 @@ app.post('/todos', authenticate, function(req, res) {
 	});
 });
 
-
 app.get('/todos', authenticate, function(req, res) {
 	Todo.find({_creator : req.user._id}).then(function(todos) {
 		res.send({todos});
@@ -101,7 +100,6 @@ app.patch('/todos/:id', authenticate, function(req, res) {
 		body.completedAt = null;
 	}
 
-	// Todo.findByIdAndUpdate(id, {$set: body}, {new: true}).then(function(todo) {
 	Todo.findOneAndUpdate({_id: id, _creator : req.user._id}, {$set: body}, {new: true}).then(function(todo) {
 		if (!todo) {
 			res.status(404).send();
@@ -130,6 +128,7 @@ app.post('/users', function(req, res) {
 });
 
 app.get('/users/me', authenticate, function(req, res) {
+
 	res.send(req.user);
 });
 
@@ -155,6 +154,7 @@ app.delete('/users/me/token', authenticate, function(req, res){
 });
 
 app.listen(port, function() {
+
 	console.log(`Started on port ${port}`);
 });
 
