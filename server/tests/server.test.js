@@ -125,7 +125,7 @@ describe('DELETE /todos/:id', function() {
 					return done(err);
 				}
 				Todo.findById(hexId).then(function(todo) {
-					expect(todo).toBe(null);
+					expect(todo).toBeFalsy();
 					// expect(todo).toNotExist();
 					done();
 				}).catch(function(e) {
@@ -133,7 +133,6 @@ describe('DELETE /todos/:id', function() {
 				});
 
 			});
-
 	});
 
 	it('should not remove a todo created by another user', function(done) {
@@ -147,15 +146,13 @@ describe('DELETE /todos/:id', function() {
 					return done(err);
 				}
 				Todo.findById(hexId).then(function(todo) {
-					expect(todo).toBeDefined();
-					// expect(todo).toNotExist();
+					expect(todo).toBeTruthy();
 					done();
 				}).catch(function(e) {
 					done(e)
 				});
 			});
 	});
-
 
 	it('should return a 404 if todo not found', function(done) {
 
@@ -234,7 +231,7 @@ describe('PATCH /todos/:id', function() {
 			.expect(function(res) {
 				expect(res.body.todo.text).toBe(sampleText);
 				expect(res.body.todo.completed).toBe(false);
-				expect(res.body.todo.completedAt).toBe(null);
+				expect(res.body.todo.completedAt).toBeFalsy();
 			})
 			.end(done);
 	});
@@ -274,16 +271,16 @@ describe('POST /users', function(){
 			.send({email, password})
 			.expect(200)
 			.expect(function(res){
-				expect(res.headers['x-auth']).toBeDefined();
-				expect(res.body._id).toBeDefined();
-				expect(res.body.email).toBeDefined();
+				expect(res.headers['x-auth']).toBeTruthy();
+				expect(res.body._id).toBeTruthy();
+				expect(res.body.email).toBe(email);
 			})
 			.end(function(err){
 				if(err){
 					return done(err);
 				}
 				User.findOne({email}).then(function(user){
-					expect(user).toBeDefined();
+					expect(user).toBeTruthy();
 					expect(user.password).not.toBe(password);
 					done();
 				}).catch(function(e){
@@ -325,15 +322,19 @@ describe('POST /users/login', function(){
 			})
 			.expect(200)
 			.expect(function(res){
-				expect(res.headers['x-auth']).toBeDefined();
+				expect(res.headers['x-auth']).toBeTruthy();
 			})
 			.end(function(err, res){
 				if(err){
 					return done(err);
 				}
 				User.findById(users[1]._id).then(function(user){
-					expect(user.tokens[1].access).toBe('auth');
-					expect(user.tokens[1].token).toBe(res.header['x-auth']);
+					// expect(user.tokens[1].access).toBe('auth');
+					// expect(user.tokens[1].token).toBe(res.header['x-auth']);
+					expect(user.toObject().tokens[1]).toMatchObject({
+						access: 'auth',
+						token : res.header['x-auth']
+					});
 					done();
 				}).catch(function(e){
 					done(e);
@@ -351,7 +352,7 @@ describe('POST /users/login', function(){
 			})
 			.expect(400)
 			.expect(function(res){
-				expect(res.headers['x-auth']).not.toBeDefined();
+				expect(res.headers['x-auth']).toBeFalsy();
 			})
 			.end(function(err, res){
 				if(err){
