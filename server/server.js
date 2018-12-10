@@ -104,8 +104,6 @@ app.patch('/todos/:id', function(req, res) {
 	}).catch(function(e) {
 		res.status(400).send();
 	});
-
-
 });
 
 // POST /users
@@ -123,15 +121,11 @@ app.post('/users', function(req, res) {
 	});
 });
 
-
 app.get('/users/me', authenticate, function(req, res) {
 	res.send(req.user);
 });
 
 // POST /users/login {email, password}
-// find user 
-// pick-off 
-// res.send(body);
 app.post('/users/login', function(req, res){
 	var body = _.pick(req.body, ['email', 'password']);
 
@@ -144,10 +138,17 @@ app.post('/users/login', function(req, res){
 	});
 });
 
+app.delete('/users/me/token', authenticate, function(req, res){
+	req.user.removeToken(req.token).then(function(){
+		res.status(200).send();
+	}, function(){
+		res.status(400).send();
+	});
+});
+
 app.listen(port, function() {
 	console.log(`Started on port ${port}`);
 });
-
 
 module.exports = {
 	app
