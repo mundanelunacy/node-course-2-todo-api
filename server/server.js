@@ -63,26 +63,32 @@ app.get('/todos/:id', authenticate, function(req, res) {
 });
 
 
-app.delete('/todos/:id', authenticate, function(req, res) {
-	var id = req.params.id;
+app.delete('/todos/:id', authenticate, async function(req, res) {
 
-	if (!ObjectID.isValid(id)) {
-		return res.status(404).send();
-	}
+	try{
+		var id = req.params.id;
+		if (!ObjectID.isValid(id)) {
+			return res.status(404).send();
+		}
+		const todo = await Todo.findOneAndRemove({
+			_id : id,
+			_creator : req.user._id
+		}); 
+	
+		if(!todo){
+			throw new Error(404);			
+		}
 
-	// Todo.findByIdAndDelete(id)
-	Todo.findOneAndRemove({
-		_id : id,
-		_creator : req.user._id
-	})
-		.then(function(todo) {
-			if (!todo) {
-				return res.status(404).send();
-			}
-			res.send({todo});
-		}).catch(function(e) {
+		res.send({todo});
+	
+	}catch(e){
+		if(e.message === '404'){
+			res.status(404).send();
+		}else{
 			res.status(400).send();
-		});
+		}
+		
+	}
 });
 
 app.patch('/todos/:id', authenticate, function(req, res) {
@@ -113,18 +119,18 @@ app.patch('/todos/:id', authenticate, function(req, res) {
 });
 
 // POST /users
-app.post('/users', function(req, res) {
+app.post('/users', async function(req, res) {
 
-	var body = _.pick(req.body, ['email', 'password']);
-	var user = new User(body);
-
-	user.save().then(function() {
-		return user.generateAuthToken();
-	}).then(function(token) {
+	try{
+		var body = _.pick(req.body, ['email', 'password']);
+		var user = new User(body);
+		await user.save();
+		const token = await user.generateAuthToken();
 		res.header('x-auth', token).send(user);
-	}).catch(function(e) {
+	}catch(e){
 		res.status(400).send(e);
-	});
+	}
+
 });
 
 app.get('/users/me', authenticate, function(req, res) {
@@ -133,24 +139,31 @@ app.get('/users/me', authenticate, function(req, res) {
 });
 
 // POST /users/login {email, password}
-app.post('/users/login', function(req, res){
-	var body = _.pick(req.body, ['email', 'password']);
+app.post('/users/login', async function(req, res){
 
-	User.findByCredentials(body.email, body.password).then(function(user){
-		return user.generateAuthToken().then(function(token){
-			res.header('x-auth', token).send(user);
-		});
-	}).catch(function(e){
+	try{
+		const body = _.pick(req.body, ['email', 'password']);
+		const user = await User.findByCredentials(body.email, body.password);
+		const token = await user.generateAuthToken();
+		res.header('x-auth', token).send(user);
+	
+	}catch(e){
 		res.status(400).send();
-	});
+	}
+
 });
 
-app.delete('/users/me/token', authenticate, function(req, res){
-	req.user.removeToken(req.token).then(function(){
-		res.status(200).send();
-	}, function(){
+app.delete('/users/me/token', authenticate, async function(req, res){
+
+	try{
+		await req.user.removeToken(req.token);
+		res.status(200).send(200).send();
+	}catch(e){
 		res.status(400).send();
-	});
+	}
+	
+
+
 });
 
 app.listen(port, function() {
